@@ -1,0 +1,25 @@
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.csprojResolveAssemblyReference.cache
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.mainForm.resources
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.GenerateResource.Cache
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\bin\Debug\Domain.dll
+C:\SRFG\C ++\SimpleDataBase\SimpleDataBase\bin\Debug\Domain.pdb
+C:\SRFG\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+C:\SRFG\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+C:\SRFG\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+C:\SRFG\SimpleDataBase\SimpleDataBase\bin\Debug\Domain.dll
+C:\SRFG\SimpleDataBase\SimpleDataBase\bin\Debug\Domain.pdb
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.csprojResolveAssemblyReference.cache
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.mainForm.resources
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+C:\SRFG\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.GenerateResource.Cache
+F:\Курсовой\SimpleDataBase\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+F:\Курсовой\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+F:\Курсовой\SimpleDataBase\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
